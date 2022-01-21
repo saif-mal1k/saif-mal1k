@@ -64,7 +64,6 @@ Here are some ideas to get you started:
 <!-- github stats -->
 <details>
   <summary><b><em> :chart_with_upwards_trend: Profile Statistics</em></b></summary>
-<br>
 <div align="center">
    <hr/>
    <div>
