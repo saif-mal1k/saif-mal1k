@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 
 # Hi 👋 I'm Saif Malik
+<!--
 <div>
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-mal1k&show_icons=true&langs_count=10&locale=en&layout=compact&theme=algolia&bg_color=0D1117&hide_border=true&title_color=05FFFF" height="200"/>
   <p align="left">
@@ -38,26 +39,24 @@ Here are some ideas to get you started:
   </p>
 </div>
 
-
-
-
-
 ## **Are you interested in collaboration?** 
 **I am always open to collaborating on projects and innovative/disruptive ideas.**
-
 - 📫 Connect me via [e-mail](mailto:it.saifmalik@gmail.com)
+-->
+
 
 <!-- # Style 2 Light Theme -->
-
-### 🖥️ Academic Projects
+<!--### 🖥️ Academic Projects -->
 <!-- table -->
+<!--
 | Year              | Project Repository                     | Technologies                           |
 |-------------------|----------------------------------------|----------------------------------------|
 | 2021              | ![image](https://github-readme-stats.vercel.app/api/pin/?username=saif-mal1k&repo=virtual-assistant&bg_color=F7F7F7&title_color=0066FF&text_color=000000&icon_color=448FFF) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy) ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square) |
 | 2020              | [Project Name2](https://github.com/ "My code") | ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) |
 | 2019              | [Project Name3](https://github.com/ "code") | ![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=haskell) |
 | 2018              | [Project Name4](https://github.com/ "Part of a Larger Project") | ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) |
-  
+-->
+
 
 <!-- github stats -->
 <div align="center">
