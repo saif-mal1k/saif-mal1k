@@ -58,8 +58,15 @@ Here are some ideas to get you started:
 -->
 
 
+
+
+
 <!-- github stats -->
+<details>
+  <summary><b><em> :chart_with_upwards_trend: Profile Statistics</em></b></summary>
+<br>
 <div align="center">
+   <hr/>
    <div>
     <a href="#"><img alt="Saif Malik's Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=saif-mal1k&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=F7F7F7&ring=0066FF&fire=FF6306&currStreakLabel=0066FF" height="200"/></a> 
     <a href="#"><img alt="Saif Malik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saif-mal1k&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=F7F7F7&title_color=0066FF&icon_color=448FFF&text_color=000000" height="200"/></a>
@@ -67,18 +74,14 @@ Here are some ideas to get you started:
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>  
-  
   <hr/>
-  
   <div>
     <a href="#"><img alt="Saif Malik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saif-mal1k&custom_title=Saif%20Malik's%20Contribution%20Graph&bg_color=FFFFFF&color=000000&line=66FF99&point=000000&hide_border=true&area=true" /></a>
   </div> 
     <i><b>Note:</b> Contributions is the matric on number of commit in last 31 Day's </i>
-
-  
   <hr/>
-  
 </div>
+</details>
 
 
 
