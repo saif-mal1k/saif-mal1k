@@ -65,7 +65,6 @@ Here are some ideas to get you started:
 <details>
   <summary><b><em> :chart_with_upwards_trend: Profile Statistics</em></b></summary>
 <div align="center">
-   <hr/>
    <div>
     <a href="#"><img alt="Saif Malik's Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=saif-mal1k&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=F7F7F7&ring=0066FF&fire=FF6306&currStreakLabel=0066FF" height="200"/></a> 
     <a href="#"><img alt="Saif Malik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saif-mal1k&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=F7F7F7&title_color=0066FF&icon_color=448FFF&text_color=000000" height="200"/></a>
