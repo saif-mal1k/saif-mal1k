@@ -74,7 +74,7 @@ Here are some ideas to get you started:
   </div>  
   <hr/>
   <div>
-    <a href="#"><img alt="Saif Malik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saif-mal1k&custom_title=Saif%20Malik's%20Contribution%20Graph&bg_color=FFFFFF&color=000000&line=66FF99&point=000000&hide_border=true&area=true" /></a>
+    <a href="#"><img alt="Saif Malik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saif-mal1k&custom_title=Saif%20Malik's%20Contribution%20Graph&bg_color=FFFFFF&color=000000&line=39FF14&point=000000&hide_border=true&area=true" /></a>
   </div> 
   <hr/>
 </div>
