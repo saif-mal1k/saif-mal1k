@@ -76,7 +76,6 @@ Here are some ideas to get you started:
   <div>
     <a href="#"><img alt="Saif Malik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saif-mal1k&custom_title=Saif%20Malik's%20Contribution%20Graph&bg_color=FFFFFF&color=000000&line=66FF99&point=000000&hide_border=true&area=true" /></a>
   </div> 
-    <i><b>Note:</b> Contributions is the matric on number of commit in last 31 Day's </i>
   <hr/>
 </div>
 </details>
