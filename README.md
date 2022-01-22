@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <!-- visit this https://github.com/anuraghazra/github-readme-stats -->
 
 
-
-### Hi 👋 I'm Saif Malik
+![Header](header.png)
+### Hello 👋 
 <!--
 <div>
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-mal1k&show_icons=true&langs_count=10&locale=en&layout=compact&theme=algolia&bg_color=0D1117&hide_border=true&title_color=05FFFF" height="200"/>
