@@ -1,4 +1,4 @@
-<!--
+
 
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=saif-mal1k&label=total%20Profile%20Views%20&color=000000&style=plastic) -->
 <!-- above image works by counting how many times address is called -->
@@ -9,6 +9,8 @@
 
 
 ![Header](header.png)
+
+<!-- Social Media links -->
 <p align="right">   
   <a href="mailto:saifmalik3300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F7F7F7"></a>
   <a href="https://www.linkedin.com/in/saifmalik" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F7F7F7"></a>
@@ -26,6 +28,12 @@
 
 ## Hello 👋 
 
+
+
+
+
+
+<!-- About Me -->
 <details>
   <summary><b><em> 😎 About me </b></em></summary>
   <div>
@@ -51,16 +59,120 @@
 
 
 
-<!--### 🖥️ Academic Projects -->
-<!-- table -->
+
 <!--
-| Year              | Project Repository                     | Technologies                           |
-|-------------------|----------------------------------------|----------------------------------------|
-| 2021              | ![image](https://github-readme-stats.vercel.app/api/pin/?username=saif-mal1k&repo=virtual-assistant&bg_color=F7F7F7&title_color=0066FF&text_color=000000&icon_color=448FFF) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy) ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square) |
-| 2020              | [Project Name2](https://github.com/ "My code") | ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) |
-| 2019              | [Project Name3](https://github.com/ "code") | ![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=haskell) |
-| 2018              | [Project Name4](https://github.com/ "Part of a Larger Project") | ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) |
--->
+<p>
+    
+## **TECH STACK**
+### ***web development***
+-frontend    Html css javascript bootstrap
+-backend     django node
+-coding environment    vscode Git
+
+### ***database***   
+-Mongo DB mysql
+
+### ***others***
+-GraphQL JSON
+
+### devops and cloud tools  
+-Git
+
+### data science
+-Data Analytics
+-Machine Learning
+-Artificial Intelligence
+</p>
+-->    
+
+
+
+
+
+
+
+
+<!-- Projects i've completed -->
+<details>
+  <summary><b><em> 🖥️ Academic Projects </b></em></summary>
+  <p>
+
+<div align="center">
+<table>
+  <tr>
+    <thead>
+    <th>
+      YEAR
+    </th>
+    <th>
+      Project Repository
+    </th>
+    <th>
+      Tool's Used
+    </th>
+    </thead>
+  </tr>
+  <tr>
+    <td>
+      2021
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saif-mal1k&repo=virtual-assistant&bg_color=0D1117&hide_border=true&title_color=05FFFF&text_color=FFFFFF&icon_color=05ffff">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
+      <img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy">
+      <img src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite">
+      <img src="https://img.shields.io/badge/-Matplotlib-black?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      2020
+    </td>
+    <td>
+      <a href="github.com/saif-mal1k/" ><b> Project Name</b></a>
+        <br><em> a smaller project description</em>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red"> 
+      <img src="https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio"> 
+      <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      2019
+    </td>
+    <td>
+      <a href="github.com/saif-mal1k/" ><b> Project Name</b></a>
+        <br><em> a smaller project description</em>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity"> 
+      <img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp">
+    </td>
+  </tr>
+    <tr>
+    <td>
+      2018
+    </td>
+    <td>
+      <a href="github.com/saif-mal1k/" ><b> Project Name</b></a>
+        <br><em> a smaller project description</em>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity"> 
+      <img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp">
+    </td>
+  </tr>
+</table>
+</div>   
+  </p>
+</details>
+
+
+
 
 
 
@@ -82,6 +194,9 @@
   <hr/>
 </div>
 </details>
+
+
+
 
 
 
