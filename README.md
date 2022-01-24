@@ -6,7 +6,7 @@
 
 
 
-
+![Header](dark_header.png)
 
 <!-- Social Media links -->
 <p align="right">   
@@ -58,24 +58,30 @@
 
 
 
-
-web development
+<!--
+<p>
+    
+## **TECH STACK**
+### ***web development***
 -frontend    Html css javascript bootstrap
 -backend     django node
--coding environment    vscode 
+-coding environment    vscode Git
 
-database   Mongo mysql
+### ***database***   
+-Mongo DB mysql
 
-others GraphQL JSON
+### ***others***
+-GraphQL JSON
 
-devops and cloud tools  Git
+### devops and cloud tools  
+-Git
 
-
-data science
+### data science
 -Data Analytics
 -Machine Learning
 -Artificial Intelligence
-
+</p>
+-->
 
 
 
