@@ -3,11 +3,35 @@
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=saif-mal1k&label=total%20Profile%20Views%20&color=000000&style=plastic) -->
 <!-- above image works by counting how many times address is called -->
 
-<!--
-**saif-mal1k/saif-mal1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- visit this https://github.com/anuraghazra/github-readme-stats -->
+<!-- and this https://shields.io/ -->
 
+
+![Header](header.png)
+<p align="right">   
+  <a href="mailto:saifmalik3300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F7F7F7"></a>
+  <a href="https://www.linkedin.com/in/saifmalik" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F7F7F7"></a>
+  <a href="https://www.kaggle.com/" target="_blank"><img src="https://img.shields.io/badge/kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=F7F7F7"></a>
+  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F7F7F7"></a>
+  <a href="https://www.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-medium-0D1117?style=for-the-badge&logo=medium&logoColor=F7F7F7"></a>
+  <a href="https://www.codeforces.com/" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=F7F7F7"></a>
+  <!-- <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F7F7F7"></a>
+  <a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F7F7F7"></a>
+  <a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Codechef-0D1117?style=for-the-badge&logo=codechef&logoColor=F7F7F7"></a>
+  <a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Leetcode-0D1117?style=for-the-badge&logo=Leetcode&logoColor=F7F7F7"></a>
+  <a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Hackerearth-0D1117?style=for-the-badge&logo=hackerearth&logoColor=F7F7F7"></a>
+  <a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Trailblazer-0D1117?style=for-the-badge&logo=trailblazer&logoColor=F7F7F7"></a> -->
+</p> 
+
+## Hello 👋 
+
+<details>
+  <summary><b><em> 😎 About me </b></em></summary>
+  <div>
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-mal1k&show_icons=true&langs_count=10&locale=en&layout=compact&theme=algolia&bg_color=0D1117&hide_border=true&title_color=05FFFF" height="200"/>
+  <p align="left">
+    
 - 💻 I’m currently working on ...
 - :mortar_board: 
 - 📖 I’m currently learning ...
@@ -17,35 +41,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 📝 [My Resume](https://drive.google.com/saif-mal1k/saif-mal1k/blob/main/saif_malik.pdf "Download Resume")
+- 📝 Have a look at <a href="https://drive.google.com/saif-mal1k/saif-mal1k/blob/main/saif_malik.pdf" title="Download Resume"> My Resume</a> 
 - 🏆
-- 
--->
-<!-- visit this https://github.com/anuraghazra/github-readme-stats -->
-
-
-![Header](header.png)
-### Hello 👋 
-<!--
-<div>
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-mal1k&show_icons=true&langs_count=10&locale=en&layout=compact&theme=algolia&bg_color=0D1117&hide_border=true&title_color=05FFFF" height="200"/>
-  <p align="left">
-  <ul>
-    <li>💻 I’m currently working on ...</li>
-    <li> :mortar_board: </li>
-    <li> 📖 I’m currently learning ...</li>
-    <li> 📝 Have a look at <a href="https://drive.google.com/saif-mal1k/saif-mal1k/blob/main/saif_malik.pdf" title="Download Resume"> My Resume</a> </li>
-  </ul>
+    
   </p>
-</div>
-
-## **Are you interested in collaboration?** 
-**I am always open to collaborating on projects and innovative/disruptive ideas.**
-- 📫 Connect me via [e-mail](mailto:it.saifmalik@gmail.com)
--->
+  </div>
+</details>
 
 
-<!-- # Style 2 Light Theme -->
+
+
 <!--### 🖥️ Academic Projects -->
 <!-- table -->
 <!--
@@ -56,8 +61,6 @@ Here are some ideas to get you started:
 | 2019              | [Project Name3](https://github.com/ "code") | ![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=haskell) |
 | 2018              | [Project Name4](https://github.com/ "Part of a Larger Project") | ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) |
 -->
-
-
 
 
 
@@ -81,6 +84,17 @@ Here are some ideas to get you started:
 </details>
 
 
+
+<!-- Collaboration -->
+<details>
+  <summary><b><em> 👯 Are you interested in collaboration? </b></em></summary>
+  <p>
+    
+   **I am always open to collaborating on projects and innovative ideas.**
+   
+   📫 Connect me via [e-mail](mailto:it.saifmalik@gmail.com)
+  </p>
+</details>
 
 
 
