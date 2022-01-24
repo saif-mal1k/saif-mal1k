@@ -1,8 +1,58 @@
 
 
 
+<!-- visit this https://github.com/anuraghazra/github-readme-stats -->
+<!-- and this https://shields.io/ -->
 
 
+
+
+
+<!-- Social Media links -->
+<p align="right">   
+  <a href="mailto:saifmalik3300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F7F7F7"></a>
+  <a href="https://www.linkedin.com/in/saifmalik" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F7F7F7"></a>
+  <a href="https://www.kaggle.com/" target="_blank"><img src="https://img.shields.io/badge/kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=F7F7F7"></a>
+  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F7F7F7"></a>
+  <a href="https://www.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-medium-0D1117?style=for-the-badge&logo=medium&logoColor=F7F7F7"></a>
+  <a href="https://www.codeforces.com/" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=F7F7F7"></a>
+  <!-- <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F7F7F7"></a>
+  <a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F7F7F7"></a>
+  <a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Codechef-0D1117?style=for-the-badge&logo=codechef&logoColor=F7F7F7"></a>
+  <a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Leetcode-0D1117?style=for-the-badge&logo=Leetcode&logoColor=F7F7F7"></a>
+  <a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Hackerearth-0D1117?style=for-the-badge&logo=hackerearth&logoColor=F7F7F7"></a>
+  <a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Trailblazer-0D1117?style=for-the-badge&logo=trailblazer&logoColor=F7F7F7"></a> -->
+</p> 
+
+
+
+
+
+
+
+
+<!-- About ME -->
+<details>
+  <summary><b><em> 😎 About me </b></em></summary>
+  <div>
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-mal1k&show_icons=true&langs_count=10&locale=en&layout=compact&theme=algolia&bg_color=0D1117&hide_border=true&title_color=05FFFF" height="200"/>
+  <p align="left">
+    
+- 💻 I’m currently working on ...
+- :mortar_board: 
+- 📖 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 📝 Have a look at <a href="https://drive.google.com/saif-mal1k/saif-mal1k/blob/main/saif_malik.pdf" title="Download Resume"> My Resume</a> 
+- 🏆
+    
+  </p>
+  </div>
+</details>
 
 
 
@@ -31,8 +81,7 @@ data science
 
 
 
-"change content theme according to the viewers github theme"
-
+<!-- Projects i've completed -->
 <details>
   <summary><b><em> 🖥️ Academic Projects </b></em></summary>
   <p>
@@ -144,10 +193,24 @@ data science
   </p>
 </details>
 
-  
 
 
-<!-- break  -->
+
+
+
+<!-- lets Collaborate to buid something amazing -->
+<details>
+  <summary><b><em> 👯 Are you interested in collaboration? </b></em></summary>
+  <p>
+    
+   **I am always open to collaborating on projects and innovative ideas.**
+   
+   📫 Connect me via [e-mail](mailto:it.saifmalik@gmail.com)
+  </p>
+</details>
+
+
+<!-- the end -->
 
 
 
