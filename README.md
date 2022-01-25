@@ -6,6 +6,13 @@
 
 <!-- visit this https://github.com/anuraghazra/github-readme-stats -->
 <!-- and this https://shields.io/ -->
+<!-- visit this https://github.com/anuraghazra/github-readme-stats -->
+<!-- and this https://shields.io/ -->
+<!-- https://github.com/Ileriayo/markdown-badges -->
+<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
+<!-- https://www.youtube.com/watch?v=pOCbKhoVirA&list=PL9GO1b6esbrMZV-2UBpgFKut20e0D7VDZ&index=3&t=23s -->
+
+
 
 
 ![Header](header.png)
