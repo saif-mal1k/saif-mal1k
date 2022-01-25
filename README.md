@@ -124,7 +124,7 @@
       2021
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saif-mal1k&repo=virtual-assistant&bg_color=0D1117&hide_border=true&title_color=05FFFF&text_color=FFFFFF&icon_color=05ffff">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saif-mal1k&repo=virtual-assistant&bg_color=F7F7F7&hide_border=true&title_color=000080&text_color=000000&icon_color=000080">
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
