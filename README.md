@@ -209,7 +209,7 @@
 
 <!-- Collaboration -->
 <details>
-  <summary><b><em> 👯 Are you interested in collaboration? </b></em></summary>
+  <summary><b><em> 🤝  Are you interested in collaboration? </b></em></summary>
   <p>
     
    **I am always open to collaborating on projects and innovative ideas.**
