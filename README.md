@@ -115,7 +115,9 @@
       2021
     </td>
     <td>
+      <a href="https://github.com/saif-mal1k/virtual-assistant" >
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=saif-mal1k&repo=virtual-assistant&bg_color=0D1117&hide_border=true&title_color=05FFFF&text_color=FFFFFF&icon_color=05ffff">
+      </a>
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
@@ -129,7 +131,7 @@
       2020
     </td>
     <td>
-      <a href="github.com/saif-mal1k/" ><b> Project Name</b></a>
+      <a href="https://github.com/saif-mal1k/" ><b> Project Name</b></a>
         <br><em> a smaller project description</em>
     </td>
     <td>
@@ -143,7 +145,7 @@
       2019
     </td>
     <td>
-      <a href="github.com/saif-mal1k/" ><b> Project Name</b></a>
+      <a href="https://github.com/saif-mal1k/" ><b> Project Name</b></a>
         <br><em> a smaller project description</em>
     </td>
     <td>
@@ -156,7 +158,7 @@
       2018
     </td>
     <td>
-      <a href="github.com/saif-mal1k/" ><b> Project Name</b></a>
+      <a href="https://github.com/saif-mal1k/" ><b> Project Name</b></a>
         <br><em> a smaller project description</em>
     </td>
     <td>
