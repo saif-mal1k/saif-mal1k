@@ -15,7 +15,7 @@
 -->
 
 <div>
-  <img src="example.svg" align="right" width="400" alt="css-in-readme">
+  <img src="link.svg" align="right" width="400" alt="css-in-readme">
   <p align="left">
   <ul>
     <li>💻 I’m currently working on <a href="https://github.com/saif-mal1k/virtual-assistant" title="click to view"> python project </a></li>
