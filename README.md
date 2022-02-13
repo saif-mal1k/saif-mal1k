@@ -12,19 +12,21 @@
 
 </em>
 </b>
+-->
 
 <div>
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-mal1k&show_icons=true&langs_count=10&locale=en&layout=compact&theme=algolia&bg_color=0D1117&hide_border=true&title_color=FFFFFF" height="200"/>
+  <img src="example.svg" align="right" width="400" alt="css-in-readme">
   <p align="left">
   <ul>
-    <li>💻 I’m currently working on ...</li>
-    <li> :mortar_board: </li>
-    <li> 📖 I’m currently learning ...</li>
+    <li>💻 I’m currently working on <a href="https://github.com/saif-mal1k/virtual-assistant" title="click to view"> python project </a></li>
+    <li> :mortar_board: I'm persuing Bachelor's in Technology. </li>
+    <li> 📖 I’m currently learning Salesforce</li>
     <li> 📝 Have a look at <a href="https://drive.google.com/saif-mal1k/saif-mal1k/blob/main/saif_malik.pdf" title="Download Resume"> My Resume</a> </li>
   </ul>
   </p>
 </div>
 
+<!--
 ## **Are you interested in collaboration?** 
 **I am always open to collaborating on projects and innovative/disruptive ideas.**
 - 📫 Connect me via [e-mail](mailto:it.saifmalik@gmail.com)
