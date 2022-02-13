@@ -1,34 +1,20 @@
-<!--
-
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=saif-mal1k&label=total%20Profile%20Views%20&color=000000&style=plastic) -->
 <!-- above image works by counting how many times address is called -->
 
-<!--
-**saif-mal1k/saif-mal1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 💻 I’m currently working on ...
-- :mortar_board: 
-- 📖 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 📝 [My Resume](https://drive.google.com/saif-mal1k/saif-mal1k/blob/main/saif_malik.pdf "Download Resume")
-- 🏆
-- 
--->
 <!-- visit this https://github.com/anuraghazra/github-readme-stats -->
-
+<!-- visit this https://githubprofile.com/ -->
 
 ![Header](header.png)
 ### Hello 👋 
 <!--
+<b>
+<em>
+
+</em>
+</b>
+
 <div>
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-mal1k&show_icons=true&langs_count=10&locale=en&layout=compact&theme=algolia&bg_color=0D1117&hide_border=true&title_color=05FFFF" height="200"/>
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-mal1k&show_icons=true&langs_count=10&locale=en&layout=compact&theme=algolia&bg_color=0D1117&hide_border=true&title_color=FFFFFF" height="200"/>
   <p align="left">
   <ul>
     <li>💻 I’m currently working on ...</li>
@@ -45,17 +31,109 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- # Style 2 Light Theme -->
-<!--### 🖥️ Academic Projects -->
-<!-- table -->
+
+
+
+<!-- Projects i've completed -->
 <!--
-| Year              | Project Repository                     | Technologies                           |
-|-------------------|----------------------------------------|----------------------------------------|
-| 2021              | ![image](https://github-readme-stats.vercel.app/api/pin/?username=saif-mal1k&repo=virtual-assistant&bg_color=F7F7F7&title_color=0066FF&text_color=000000&icon_color=448FFF) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy) ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square) |
-| 2020              | [Project Name2](https://github.com/ "My code") | ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) |
-| 2019              | [Project Name3](https://github.com/ "code") | ![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=haskell) |
-| 2018              | [Project Name4](https://github.com/ "Part of a Larger Project") | ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) |
+<details>
+  <summary><b><em> 🖥️ Academic Projects </b></em></summary>
+  <p>
+
+<div align="center">
+<table>
+  <tr>
+    <thead>
+    <th>
+      YEAR
+    </th>
+    <th>
+      Project Repository
+    </th>
+    <th>
+      Tool's Used
+    </th>
+    </thead>
+  </tr>
+  <tr>
+    <td>
+      2021
+    </td>
+    <td>
+      <a href="https://github.com/saif-mal1k/virtual-assistant" >
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saif-mal1k&repo=virtual-assistant&bg_color=F7F7F7&hide_border=false&title_color=0859BC&text_color=000000&icon_color=0859BC">
+       </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
+      <img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy">
+      <img src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite">
+      <img src="https://img.shields.io/badge/-Matplotlib-black?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      2020
+    </td>
+    <td>
+      <a href="github.com/saif-mal1k/" ><b> Project Name</b></a>
+        <br><em> a smaller project description</em>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red"> 
+      <img src="https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio"> 
+      <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      2019
+    </td>
+    <td>
+      <a href="github.com/saif-mal1k/" ><b> Project Name</b></a>
+        <br><em> a smaller project description</em>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity"> 
+      <img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp">
+    </td>
+  </tr>
+    <tr>
+    <td>
+      2018
+    </td>
+    <td>
+      <a href="github.com/saif-mal1k/" ><b> Project Name</b></a>
+        <br><em> a smaller project description</em>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity"> 
+      <img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp">
+    </td>
+  </tr>
+</table>
+</div>   
+  </p>
+</details>
 -->
+
+<!--
+<details>
+  <summary>
+    <b> 💻 Top Repositories: </b>
+  </summary>
+<div align=center>
+
+  &nbsp;
+  
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=saif-mal1k&repo=virtual-assistant&locale=en)](https://github.com/saif-mal1k/virtual-assistant)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=saif-mal1k&repo=programming&locale=en)](https://github.com/saif-mal1k/programming)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=saif-mal1k&repo=web-development&locale=en)](https://github.com/saif-mal1k/web-development)
+</div>
+</details>
+-->
+
+
 
 
 
@@ -79,7 +157,6 @@ Here are some ideas to get you started:
   <hr/>
 </div>
 </details>
-
 
 
 
