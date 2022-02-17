@@ -1,8 +1,6 @@
 <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
     <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-    <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="saifmalik" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/saifmalik?trk=profile-badge">Saif Malik</a></div>
         </div>    
-    </foreignObject>
 </svg>
