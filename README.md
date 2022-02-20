@@ -4,7 +4,9 @@
 <!-- visit this https://github.com/anuraghazra/github-readme-stats -->
 <!-- visit this https://githubprofile.com/ -->
 
-![Header](header.png)
+
+
+<a href="#"> <img src="header.png" alt="header image"></a>
 ### Hello 👋 
 <!--
 <b>
