@@ -185,7 +185,7 @@
   <div align="center">
   <div>
 <a href="#"><img alt="Saif Malik's Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=saif-mal1k&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=FFFFFF&ring=095963&fire=05FFFF&currStreakLabel=05FFFF&sideNums=05FFFF&sideLabels=05FFFF&currStreakNum=FFFFFF&dates=FFFFFF" height="200"/></a>  
-    <a href="#"><img alt="Saif Malik's Github Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=saif-mal1k&theme=algolia&title_color=05FFFF&bg_color=0D1117&hide_border=true&icon_color=095963" height="200"/></a>
+    <a href="#"><img alt="Saif Malik's Github Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=saif-mal1k&theme=algolia&show_icons=true&title_color=05FFFF&bg_color=0D1117&hide_border=true&icon_color=05FFFF" height="200"/></a>
     <a href="#"><img alt="Saif Malik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-mal1k&show_icons=true&langs_count=10&locale=en&layout=compact&theme=algolia&bg_color=0D1117&hide_border=true&title_color=05FFFF" height="200"/></a> 
   </div>
   <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
