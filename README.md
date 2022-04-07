@@ -34,7 +34,7 @@
 
 <div>
   <!--linked in profile badge-->
-  <img src="link.svg" align="right" width="400" alt="css-in-readme">
+  <!--<img src="link.svg" align="right" width="400" alt="css-in-readme">-->
   <!--<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-mal1k&show_icons=true&langs_count=10&locale=en&layout=compact&theme=algolia&bg_color=0D1117&hide_border=true&title_color=05FFFF" height="200"/>-->
   <!--or codeforces graph-->
   
