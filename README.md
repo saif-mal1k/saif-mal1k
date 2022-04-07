@@ -40,7 +40,7 @@
   
   <p align="left">
   <ul>
-    <li>💻 I’m currently working on <a href="https://github.com/saif-mal1k/virtual-assistant" title="click to view"> python project </a></li>
+    <li>💻 I’m currently working on <a href="https://github.com/saif-mal1k/virtual-assistant" title="click to view"> python project.</a></li>
     <li> :mortar_board: I'm persuing <b>Bachelor's in Technology.</b> </li>
     <li> 📖 I’m currently learning <em>Salesforce.</em></li>
     <li> 💬 Ask me about <em><a href="https://github.com/saif-mal1k/programming">programming</a>, <a href="https://github.com/saif-mal1k/web-development">web-development</a>, <a href="https://github.com/saif-mal1k/Git-VCS">git-vcs.</a></em> </li>
