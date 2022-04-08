@@ -45,7 +45,7 @@
     <li> 📖 I’m currently learning <em>Salesforce.</em></li>
     <li> 💬 Ask me about <em><a href="https://github.com/saif-mal1k/programming">programming</a>, <a href="https://github.com/saif-mal1k/web-development">web-development</a>, <a href="https://github.com/saif-mal1k/Git-VCS">git-vcs.</a></em> </li>
     <li> 🤔 I’m looking for help with my portfolio. </li>
-    <li> 📝 Have a look at <a href="https://drive.google.com/saif-mal1k/saif-mal1k/blob/main/saif_malik.pdf" title="Download Resume"> <b>My Resume.</b> </a> </li>
+    <li> 📝 Have a look at <a href="https://drive.google.com/file/d/1ocqNzKwC4o6T11uB8pHjaYg4Umc5GT5J/view?usp=drivesdk" title="Download Resume"> <b>My Resume.</b> </a> </li>
   
   </ul>
   </p>
