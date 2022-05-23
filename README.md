@@ -42,7 +42,7 @@
   <ul>
     <li>💻 I’m currently working on <a href="https://github.com/saif-mal1k/virtual-assistant" title="click to view"> python project.</a></li>
     <li> :mortar_board: I'm persuing <b>Bachelor's in Technology.</b> </li>
-    <li> 📖 I’m currently learning <em>Salesforce.</em></li>
+    <li> 📖 I’m currently learning <b><em><a href="https://github.com/saif-mal1k/salesforce">Salesforce.</a></em></b></li>
     <li> 💬 Ask me about <em><a href="https://github.com/saif-mal1k/programming">programming</a>, <a href="https://github.com/saif-mal1k/web-development">web-development</a>, <a href="https://github.com/saif-mal1k/Git-VCS">git-vcs.</a></em> </li>
     <li> 🤔 I’m looking for help with my portfolio. </li>
     <li> 📝 Have a look at <a href="https://drive.google.com/file/d/1ocqNzKwC4o6T11uB8pHjaYg4Umc5GT5J/view?usp=drivesdk" title="Download Resume"> <b>My Resume.</b> </a> </li>
