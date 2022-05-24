@@ -11,10 +11,12 @@
 <p align="right">   
   <a href="mailto:saifmalik3300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F7F7F7"></a>
   <a href="https://www.linkedin.com/in/saifmalik" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F7F7F7"></a>
-  <a href="https://www.kaggle.com/" target="_blank"><img src="https://img.shields.io/badge/kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=F7F7F7"></a>
+    <a href="https://trailblazer.me/id/saif-malik" target="_blank"><img src="https://img.shields.io/badge/-trailhead-0D1117?style=for-the-badge&logo=trailhead&logoColor=F7F7F7"></a>
+  <a href="https://www.kaggle.com/saifmalik" target="_blank"><img src="https://img.shields.io/badge/kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=F7F7F7"></a>
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F7F7F7"></a>
   <a href="https://www.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-medium-0D1117?style=for-the-badge&logo=medium&logoColor=F7F7F7"></a>
   <a href="https://www.codeforces.com/" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=F7F7F7"></a>
+
   <!-- <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F7F7F7"></a>
   <a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F7F7F7"></a>
   <a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Codechef-0D1117?style=for-the-badge&logo=codechef&logoColor=F7F7F7"></a>
@@ -42,7 +44,7 @@
   <ul>
     <li>💻 I’m currently working on <a href="https://github.com/saif-mal1k/virtual-assistant" title="click to view"> python project.</a></li>
     <li> :mortar_board: I'm persuing <b>Bachelor's in Technology.</b> </li>
-    <li> 📖 I’m currently learning <b><em><a href="https://github.com/saif-mal1k/salesforce">Salesforce.</a></em></b></li>
+    <li> 📖 I’m currently learning <b><em><a href="https://github.com/saif-mal1k/salesforce">Salesforce</a></em></b> on <a href="https://https://trailhead.salesforce.com"><em> trailhead </em></a>.</li>
     <li> 💬 Ask me about <em><a href="https://github.com/saif-mal1k/programming">programming</a>, <a href="https://github.com/saif-mal1k/web-development">web-development</a>, <a href="https://github.com/saif-mal1k/Git-VCS">git-vcs.</a></em> </li>
     <li> 🤔 I’m looking for help with my portfolio. </li>
     <li> 📝 Have a look at <a href="https://drive.google.com/file/d/1ocqNzKwC4o6T11uB8pHjaYg4Umc5GT5J/view?usp=drivesdk" title="Download Resume"> <b>My Resume.</b> </a> </li>
