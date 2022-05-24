@@ -12,7 +12,7 @@
   <a href="mailto:saifmalik3300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F7F7F7"></a>
   <a href="https://www.linkedin.com/in/saifmalik" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F7F7F7"></a>
     <a href="https://trailblazer.me/id/saif-malik" target="_blank"><img src="https://img.shields.io/badge/-trailhead-0D1117?style=for-the-badge&logo=trailhead&logoColor=F7F7F7"></a>
-  <a href="https://www.kaggle.com/saifmalik" target="_blank"><img src="https://img.shields.io/badge/kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=F7F7F7"></a>
+  <a href="https://www.kaggle.com/saifmal1k" target="_blank"><img src="https://img.shields.io/badge/kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=F7F7F7"></a>
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F7F7F7"></a>
   <a href="https://www.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-medium-0D1117?style=for-the-badge&logo=medium&logoColor=F7F7F7"></a>
   <a href="https://www.codeforces.com/" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=F7F7F7"></a>
