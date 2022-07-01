@@ -5,7 +5,7 @@
 <!-- visit this https://githubprofile.com/ -->
 
 
-<a href="#"><img src="header.png"></a>
+<a href="#"><img src="header.png#gh-light-mode-only"></a>
 
 <!-- Social Media links -->
 <p align="right">   
