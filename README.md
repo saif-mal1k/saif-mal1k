@@ -6,7 +6,7 @@
 
 
 
-<a href="#"><img src="header.png"></a>
+<a href="#"><img src="https://media.licdn.com/dms/image/D5616AQEY3qXJD5QM1g/profile-displaybackgroundimage-shrink_350_1400/0/1682619652586?e=1688601600&v=beta&t=-Q99StpeYZrL_1mRRWiv7RgJ9MkR6jFztXhYETVCzrI"></a>
 
 <!-- Social Media links -->
 <p align="right">   
