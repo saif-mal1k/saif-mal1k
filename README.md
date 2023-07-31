@@ -6,7 +6,7 @@
 
 
 
-<a href="#"><img src="https://media.licdn.com/dms/image/D5616AQEY3qXJD5QM1g/profile-displaybackgroundimage-shrink_350_1400/0/1682619652586?e=1688601600&v=beta&t=-Q99StpeYZrL_1mRRWiv7RgJ9MkR6jFztXhYETVCzrI"></a>
+<a href="#"><img src="https://media.licdn.com/dms/image/D5616AQEY3qXJD5QM1g/profile-displaybackgroundimage-shrink_350_1400/0/1682619652586?e=1696464000&v=beta&t=e0LLktqIngWn4aM2qDVpu7X970ejScrV-9-WzqJ5aHI"></a>
 
 <!-- Social Media links -->
 <p align="right">   
