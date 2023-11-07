@@ -6,7 +6,7 @@
 
 
 
-<a href="#"><img src="https://media.licdn.com/dms/image/D5616AQEY3qXJD5QM1g/profile-displaybackgroundimage-shrink_350_1400/0/1682619652586?e=1696464000&v=beta&t=e0LLktqIngWn4aM2qDVpu7X970ejScrV-9-WzqJ5aHI"></a>
+<a href="#"><img src="https://miro.medium.com/v2/resize:fit:2800/0*PdIVIQe4eopaQ-pl"></a>
 
 <!-- Social Media links -->
 <p align="right">   
