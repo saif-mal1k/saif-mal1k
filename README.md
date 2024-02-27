@@ -6,7 +6,7 @@
 
 
 
-<a href="#">![image](https://github.com/saif-mal1k/saif-mal1k/assets/63545175/d7de742f-46bc-4630-88f0-bdacf641f8a8)</a>
+<a href="#">![image](/header%20(2).png)</a>
 
 <!-- Social Media links -->
 <p align="right">   
