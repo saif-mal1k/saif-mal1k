@@ -43,11 +43,48 @@
   
   <p align="left">
   <ul>
-    <li>💻 I’m currently working on <!--<a href="https://github.com/saif-mal1k/virtual-assistant" title="click to view">--> salesforce project.</a></li>
-    <li> :mortar_board: I have a degree in <b>Bachelor's in Technology.</b> </li>
-    <li> 📖 I’m currently learning <b><em><a href="https://github.com/saif-mal1k/salesforce">Salesforce Development</a></em></b> on <a href="https://https://trailhead.salesforce.com"><em> trailhead </em></a>.</li>
-    <li> 💬 Ask me about <em><a href="https://github.com/saif-mal1k/programming">programming</a>, <a href="https://github.com/saif-mal1k/web-development">web-development</a>, <a href="https://github.com/saif-mal1k/Git-VCS">git-vcs.</a></em> </li>
-    <li> 🤔 I’m looking for help with my portfolio. </li>
+    <li>💻 I’m a Salesforce Developer working on #1 CRM SALESFORCE ☁ </li>
+    <li> :mortar_board: I have a <b>Bachelor's degree </b> in Information Technology.</b> </li>
+    <li> 📖 I’m learning <b><em><a href="https://github.com/saif-mal1k/salesforce">Salesforce Development</a></em></b> here via <a href="https://trailblazer.me/id/saif-malik"><em> trailhead </em></a>.</li>
+    <li> 💬 Ask me about:
+    <ul>
+<li>
+<em> <a href="https://github.com/saif-mal1k/web-development">Web Development</a></em>   
+</li>
+      
+<li>
+<a href="https://github.com/saif-mal1k/Data-Structures-Algorithms">Data Structures & Algorithms</a>
+</li>
+      
+<li>
+<em> <a href="https://github.com/saif-mal1k/java">Programming ( Java )</a></em>   
+</li>
+
+<li>
+<em> <a href="https://github.com/saif-mal1k/operating-system">Operating System</a></em>   
+</li>
+
+<li>
+<em> <a href="https://github.com/saif-mal1k/dbms">Database Management Systems</a></em>   
+</li>
+
+<li>
+<em> <a href="https://github.com/saif-mal1k/system-design">System Design</a></em>   
+</li>
+
+<li>
+<em> <a href="https://github.com/saif-mal1k/networking">Networking & CyberSecurity</a></em>   
+</li>
+      
+<li>      
+<a href="https://github.com/saif-mal1k/Git-VCS">GIT VCS</a>
+</li>
+
+<li>      
+<a href="https://github.com/saif-mal1k/VS-code">VS Code configuration</a>
+</li>
+    </ul>
+    </li>
     <li> 📝 Have a look at <a href="https://drive.google.com/file/d/1r93Qi2i_enwik2L6thOegEopNrtNrhPm/view" title="Download Resume"> <b>My Resume.</b> </a> </li>
   
   </ul>
@@ -321,7 +358,23 @@
 </details>
 
 
+<p align="center">   
 
+<b>
+Tech Stack
+</b>
+  
+</p>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<p align="right">
+  
+[![](https://visitcount.itsvg.in/api?id=saifmalik&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+
+</p>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
 
