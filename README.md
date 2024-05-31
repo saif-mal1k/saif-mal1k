@@ -43,10 +43,11 @@
   
   <p align="left">
   <ul>
+    <li>🧑‍🦰 My name is Saif Malik. </li>
     <li>💻 I’m a Salesforce Developer working on #1 CRM SALESFORCE ☁ </li>
     <li> :mortar_board: I have a <b>Bachelor's degree </b> in Information Technology.</b> </li>
     <li> 📖 I’m learning <b><em><a href="https://github.com/saif-mal1k/salesforce">Salesforce Development</a></em></b> here via <a href="https://trailblazer.me/id/saif-malik"><em> trailhead </em></a>.</li>
-    <li> 💬 Ask me about:
+    <li> 💬 You may ask me about:
     <ul>
 <li>
 <em> <a href="https://github.com/saif-mal1k/web-development">Web Development</a></em>   
